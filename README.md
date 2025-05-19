@@ -1,6 +1,6 @@
-# PixTorm
+# NimCurse
 
-**PixTorm** is an experimental terminal UI rendering engine built on [Notcurses](https://github.com/dankamongmen/notcurses), designed for high-performance, shader-inspired visuals in text-based environments.
+**NimCurse** is an experimental terminal UI rendering engine built on [Notcurses](https://github.com/dankamongmen/notcurses), designed for high-performance, shader-inspired visuals in text-based environments.
 
 ---
 
