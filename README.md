@@ -4,7 +4,7 @@
 
 ---
 
-## Features
+## Vision
 
 - Built on Notcurses for high performance terminal rendering
 - Scriptable UI logic via embedded Lua (optional)
