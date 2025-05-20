@@ -21,6 +21,12 @@ This is still in concept stage.
 
 ---
 
+## Building
+
+`nimble build -d:release -d:nimDebugDlOpen -d:ssl`
+
+--
+
 ## License
 
 MIT
