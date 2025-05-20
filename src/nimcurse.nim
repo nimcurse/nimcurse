@@ -53,8 +53,6 @@ func `$`*(node: Node): string =
     result = "<!DOCTYPE" & ' ' & DocumentType(node).name & ">"
   elif node of Document:
     result = "Node of Document"
-  else:
-    assert false
 
 
 proc main() =
